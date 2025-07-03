@@ -33,3 +33,5 @@ if (age >=18) {
 } else {
     console.log("You are not an adult");
 }
+
+console.log(100/0);
