@@ -23,6 +23,13 @@ console.error("something went wrong");
 console.log(12*12);
 
 var a = true;
-var b = false;
+var b = 59;
 console.log(typeof a);
 console.log(typeof b);
+
+var age = 32;
+if (age >=18) {
+    console.log("You are an adult");
+} else {
+    console.log("You are not an adult");
+}
