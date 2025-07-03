@@ -35,3 +35,7 @@ if (age >=18) {
 }
 
 console.log(100/0);
+
+/*var and data types*/
+let c = 82;
+console.log(c);
