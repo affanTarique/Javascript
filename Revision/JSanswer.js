@@ -105,10 +105,16 @@ console.log(typeof bb); // This will log "undefined" since the variable is decla
 
 
 //19. Create a variable with undefined and log its type.
+let j = undefined;
+console.log(typeof j); // This will log "undefined" since the variable is explicitly set to undefined.
 
 
 
 
 
 //20. Use const to create an array. Try to reassign the array and observe the error.
+const arr = [1, 2, 3];
+arr = [1, 2, 3]; // This will throw an error because you cannot reassign a const variable.
 
+
+git
