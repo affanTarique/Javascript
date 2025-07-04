@@ -47,3 +47,7 @@ console.log(P1);
 let x = 16;
 x = 46;
 console.log(x);
+
+//jab bhi type of null nikala jaega , null ka type hamesa object aata hai//
+
+console.log(typeof null);
