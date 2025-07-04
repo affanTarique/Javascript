@@ -100,7 +100,8 @@ console.log(newbool);
 
 
 //18. Declare a variable without assigning a value. Log its type.
-
+let bb;
+console.log(typeof bb); // This will log "undefined" since the variable is declared but not assigned a value.
 
 
 //19. Create a variable with undefined and log its type.
