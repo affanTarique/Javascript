@@ -49,9 +49,12 @@ x = 46;
 console.log(x);
 
 //jab bhi type of null nikala jaega , null ka type hamesa object aata hai//
-
+//14. Check the type of null and log it.//
 console.log(typeof null);
 
-console.log("gjgjhf")
 
-console.log("kfkjfkjwfhkjfhjfk");
+
+//16. Use typeof to check the type of a boolean variable.//
+var n = true;
+console.log(typeof n);
+
