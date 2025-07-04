@@ -63,21 +63,51 @@ console.log(100/0);
 let c = 82;
 console.log(c);
 
+//12. Create a constant to store the value of PI and log it.//
 const P1 = Math.PI;
 console.log(P1);
 
 
+//13. Reassign a value to a variable declared with let and log the result.//
 let x = 16;
 x = 46;
 console.log(x);
 
-//jab bhi type of null nikala jaega , null ka type hamesa object aata hai//
-//14. Check the type of null and log it.//
+
+
+//14. Check the type of null and log it.......jab bhi type of null nikala jaega , null ka type hamesa object aata hai//
 console.log(typeof null);
 
+
+
+//15. Create a variable with a number as a string (e.g., "25") and log its type.//
+var numstr = "98";
+console.log(typeof numstr);
 
 
 //16. Use typeof to check the type of a boolean variable.//
 var n = true;
 console.log(typeof n);
+
+
+//17. Create three variables of types string, number, and boolean, and log their values.
+var newstr = "HEllo affan sir";
+var newnum = 100;
+var newbool = false;
+console.log(newstr);
+console.log(newnum);
+console.log(newbool);
+
+
+//18. Declare a variable without assigning a value. Log its type.
+
+
+
+//19. Create a variable with undefined and log its type.
+
+
+
+
+
+//20. Use const to create an array. Try to reassign the array and observe the error.
 
