@@ -18,19 +18,26 @@ html , body {
     border-radius: 50%;
     border: 4px solid #000;
     background-color: yellow;
+    position: absolute;
+    top: 45%;
+    left: 18%;
+    transform: translate(-50%, -50%);
     
 }
 button{
     padding: 10px 20px;
     font-size: 30px;
     margin-left: 100px;
-    background-color: #00c853;  /* vibrant green */
+    background-color: #3fa0e0;  /* vibrant green */
     color: white;
     border: none;
     border-radius: 8px;
     cursor: pointer;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: all 0.3s ease;
+    position: absolute;
+    top : 70%;
+    left: 7%; 
 }
 button:hover {
     background-color: #009624;  /* darker green on hover */
