@@ -126,9 +126,10 @@ arr = [1, 2, 3]; // This will throw an error because you cannot reassign a const
 
 //loops//
 //21 write a for loop to print numbers from 1 to 50
-let jj = 1;
-while (jj <= 51) {
-    console.log(jj);
-    jj++;
+let h = 1;
+while (h < 51) {
+    console.log(h);
+    h++;
 
 }
+
