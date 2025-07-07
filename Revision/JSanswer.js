@@ -142,3 +142,7 @@ while (i < 11) {
 }
 console.log(sum);
 
+//23.Create a for ...of loop to log each character of the straing "JavaScript".
+let str = "JavaScript";
+
+
