@@ -13,3 +13,4 @@ affan
 dua
 shamu
 kabbu
+temu
