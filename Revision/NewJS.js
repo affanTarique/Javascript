@@ -14,3 +14,4 @@ dua
 shamu
 kabbu
 temu
+arshu
