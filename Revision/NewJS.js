@@ -9,10 +9,3 @@ git add .
 git commit -m "r"
 git push origin main
 
-affan
-shamu
-temu
-kabir
-dua
-hii
-hello
