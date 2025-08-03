@@ -16,3 +16,4 @@ var d = a - b;
 //var is function scoped
 //let is block scoped
 //const is also block scoped but cannot be reassigned
+affan
